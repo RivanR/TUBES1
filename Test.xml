@@ -1,0 +1,20 @@
+<entry>
+<lang>en</lang>
+<title>Manchester</title>
+-
+<summary>
+Manchester is a city and metropolitan borough of Greater Manchester, England. In 2009, the population of the city was estimated to be 483,800, making it the seventh-most populous local authority district in England (...)
+</summary>
+<feature>city</feature>
+<countryCode>GB</countryCode>
+<population>0</population>
+<elevation>0</elevation>
+<lat>53.4808</lat>
+<lng>-2.235</lng>
+<wikipediaUrl>http://en.wikipedia.org/wiki/Manchester</wikipediaUrl>
+-
+<thumbnailImg>
+http://www.geonames.org/img/wikipedia/23000/thumb-22441-100.jpg
+</thumbnailImg>
+<rank>100</rank>
+</entry>
