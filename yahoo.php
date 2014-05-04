@@ -69,5 +69,4 @@ function getWebsiteContent($sUrl) {
     return file_get_contents($sCacheFolder.$sFilename);
 }
 
-
 ?>
